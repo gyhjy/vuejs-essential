@@ -1,6 +1,6 @@
 .DS_Store
 node_modules
-/dist
+#为了提交dist目录而注释掉“/dist”或者直接删除掉
 
 # local env files
 .env.local
